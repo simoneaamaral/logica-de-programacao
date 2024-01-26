@@ -2,7 +2,7 @@
 A ampliação do Ensino Fundamental para nove anos de duração, tornou a matrícula da criança obrigatória a partir dos seis anos de idade. Implemente um programa que fornecidos o nome e a idade de uma criança classifique-a em uma das seguintes etapas de ensino:  
  
     Ensino 	                              Faixa etária 
-    Educação Infantil	                  1 a 5 anos
+    Educação Infantil	              1 a 5 anos
  	Ensino Fundamental I                  6 a 10 anos
  	Ensino Fundamental II                 11 a 14 anos
   	Ensino Médio                          Maiores de 15 anos
@@ -51,7 +51,7 @@ L*C!@N&
 Para isso, o programa deve ser capaz de converter o nome digitado para maiúsculas e substituir as vogais pelos símbolos apresentados na tabela abaixo.
 
     A   @ 
-    E	& 
+    E   &
     I   !
     O   #
     U   *
