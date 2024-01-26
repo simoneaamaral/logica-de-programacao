@@ -31,4 +31,4 @@ while True: # cria-se um laço de repetição
         print('Programa finalizado com sucesso!') # esta mensagem aparecerá para o usuário
         break # encerra-se laço de repetição
     else: # senão
-        continue # o programa retorna ao início do laço de repetição1
+        continue # o programa retorna ao início do laço de repetição
